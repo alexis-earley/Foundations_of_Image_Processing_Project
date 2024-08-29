@@ -5,6 +5,13 @@ to manipulate various inputs. In total, I completed ten different tasks. After e
 
 In addition to the main and header, I wrote the pixel and image files (the pixel class is nested within the image one). In other
 words, no C++ files were provided for me. At the time, it was my longest project to date, around 850 lines of code in total. This project 
-demonstrates my early knowledge of header/main files in C++, file manipulation, classes, pointers/references, and basic image processing. 
+demonstrates my early knowledge of concepts like:
 
-Score: 135 / 135.
+ - Header and main files in C++
+ - File manipulation
+ - Classes
+ - Pointers/references
+ - Throwing exceptions
+ - Basic image processing
+
+Overall score: 135 / 135.
