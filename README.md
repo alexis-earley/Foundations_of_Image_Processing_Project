@@ -1,4 +1,4 @@
-This was a project I participated in through one of my first programming classes. To do it, I initially studied the 
+This was a project I participated in through one of my first programming classes. I initially studied the 
 organization of .tga image files. I was then able to use this knowledge to load the images provided (contained in the "input"
 folder) and construct the rest of the code. I used basic image manipulation processes, such as multiplying, overlaying, and rotating,
 to manipulate various inputs. In total, I completed ten different tasks. After each one, the results were stored in a new .tga image file.
